@@ -1,7 +1,7 @@
-### Hi, 👋
+## Hi, 👋
 
-I am Rafal and I'm currently working as BI developer and learning Python.
-I'm super interested in Data Engineering and Data Modeling.
+- I am Rafal and I'm currently working as BI developer and learning Python.<br/>
+- I'm super interested in Data Engineering and Data Modeling.
 
 <!--
 **rafalnac/rafalnac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
