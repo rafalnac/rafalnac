@@ -1,6 +1,6 @@
 ## Hi, 👋
 
-- I am Rafal and I'm currently working as BI developer and learning Python.<br/>
+- I am Rafal and I'm currently working as BI Developer and learning Python.<br/>
 - I'm super interested in Data Engineering and Data Modeling.
 
 <!--
